@@ -65,6 +65,13 @@ Setelah berjalan, aplikasi biasanya tersedia di:
 
 Atau sesuaikan dengan port kalian
 
+## 5. Email Setup
+```
+
+Untuk email bisa menggunakan Mailtrap jika ingin testing fitur forgot password.
+
+```
+
 ## Catatan
 
 - Untuk development, project ini memakai file `appsettings.Development.json`.
