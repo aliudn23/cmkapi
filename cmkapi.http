@@ -1,0 +1,6 @@
+@cmkapi_HostAddress = http://localhost:5165
+
+GET {{cmkapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
